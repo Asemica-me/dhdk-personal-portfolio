@@ -11,6 +11,7 @@ The institutional course yearbook is hosted on the [DHDKey](https://projects.dha
 | [Network Analysis of the Digital Humanities Research Field at the University of Bologna](#) | Network Analysis | S. Giallorenzo | [See Repository](https://github.com/NetworkAnalysisDH/final_project) | Feb. 2025 |
 | [RAG Chatbot for Geoportale Nazionale Archeologia (GNA)](https://github.com/Asemica-me/chatw-GNA) |	Machine Learning | G. Colavizza | [See Repository](https://github.com/Asemica-me/chatw-GNA),<br>[Exercises Environment](https://github.com/Asemica-me/ML_4DHDK) | 2025 |
 
+---
 
 ## First year projects - a.y. 2023/2024
 
