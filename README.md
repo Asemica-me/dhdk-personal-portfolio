@@ -10,6 +10,7 @@ The institutional course yearbook is hosted on the [DHDKey](https://projects.dha
 | [Open Voices: a statistical analysis of violence against women in Italy](https://asemica-me.github.io/OADE_OpenVoices/) | Open Access and Digital Ethics | M. Palmirani | [See Repository](https://github.com/Asemica-me/OADE_OpenVoices) | Jan. 2025 |
 | [Network Analysis of the Digital Humanities Research Field at the University of Bologna](#) | Network Analysis | S. Giallorenzo | [See Repository](https://github.com/NetworkAnalysisDH/final_project) | Feb. 2025 |
 | [RAG Chatbot for Geoportale Nazionale Archeologia (GNA)](https://github.com/Asemica-me/chatw-GNA) |	Machine Learning | G. Colavizza | [See Repository](https://github.com/Asemica-me/chatw-GNA),<br>[Exercises Environment](https://github.com/Asemica-me/ML_4DHDK) | 2025 |
+| [Succede solo a Bologna: A Case Study Analysis](https://www.canva.com/design/DAGYjtzRLzM/6mL0IlF0YJbaTsT_gFADRg/edit?utm_content=DAGYjtzRLzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |	Business Strategy and Innovation in Cultural and Creative Industries | F. Leonardi | [See CS Report](https://liveunibo-my.sharepoint.com/:b:/r/personal/lucrezia_pograri_studio_unibo_it/Documents/Business%20Strategy/Business%20Strategy%20Case%20Study%20Report.pdf?csf=1&web=1&e=2JWKfQ) | Dec. 2024 |
 
 ---
 
