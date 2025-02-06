@@ -7,6 +7,7 @@ The institutional course yearbook is hosted on the [DHDKey](https://projects.dha
 
 | **Project** | **Course** | **Professor** | **Repository** | **Submit** |
 |-------------|------------|------------------|-----------|---------------|
+| [AI-powered chatbot assistant application for Cultural Heritage](#) | Project Management and Software Engineering | P. Bonora | [See Project](https://pmse.gitbook.io/pmse-dhdk) | Feb. 2025 |
 | [Open Voices: a statistical analysis of violence against women in Italy](https://asemica-me.github.io/OADE_OpenVoices/) | Open Access and Digital Ethics | M. Palmirani | [See Repository](https://github.com/Asemica-me/OADE_OpenVoices) | Jan. 2025 |
 | [Network Analysis of the Digital Humanities Research Field at the University of Bologna](#) | Network Analysis | S. Giallorenzo | [See Repository](https://github.com/NetworkAnalysisDH/final_project) | Feb. 2025 |
 | [RAG Chatbot for Geoportale Nazionale Archeologia (GNA)](https://github.com/Asemica-me/chatw-GNA) |	Machine Learning | G. Colavizza | [See Repository](https://github.com/Asemica-me/chatw-GNA),<br>[Exercises Environment](https://github.com/Asemica-me/ML_4DHDK) | 2025 |
