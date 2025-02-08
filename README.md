@@ -1,7 +1,7 @@
 # 🎓 Academic Projects Portfolio
 
-This repository contains the portfolio of projects developed during my Master's in <i>Digital Humanities and Digital Knowledge (DHDK)</i> at the University of Bologna. 
-The institutional course yearbook is hosted on the [DHDKey](https://projects.dharc.unibo.it/dhdkey/) platform.
+This repository contains the portfolio of projects developed during my Master's in <i>[Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge/course-structure-diagram/piano/2024/9224/000/000/2023)</i> at the University of Bologna. 
+The institutional course's yearbook is hosted on the [DHDKey](https://projects.dharc.unibo.it/dhdkey/) platform.
 
 ## Second year projects - a.y. 2024/2025
 
