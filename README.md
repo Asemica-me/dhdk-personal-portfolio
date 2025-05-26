@@ -7,11 +7,12 @@ The institutional course's yearbook is hosted on the [DHDKey](https://projects.d
 
 | **Project** | **Course** | **Professor** | **Repository** | **Submit** |
 |-------------|------------|------------------|-----------|---------------|
-| [-](#) | Modeling and Processing of Multimedia Data | I. Bartolini | [See Project](#) | 2025 |
-| AI-powered Chatbot Application for Cultural Heritage | Project Management and Software Engineering | P. Bonora | [See Project](https://pmse.gitbook.io/pmse-dhdk) | Feb. 2025 |
+| Open Science end-of-the-course project 2024/2025 | Open Science | S. Peroni | [See Repository](https://github.com/open-sci/2024-2025/tree/main/crisis) | June 2025 |
+| [VISTARA: Intelligent Access to Cultural Multimedia Collections](https://liveunibo-my.sharepoint.com/:b:/r/personal/lucrezia_pograri_studio_unibo_it/Documents/MPMD/VISTARA/Lucrezia.Pograri.FreeExercise.pdf?csf=1&web=1&e=mIug32) | Modeling and Processing of Multimedia Data | I. Bartolini | [See Project](https://liveunibo-my.sharepoint.com/:b:/r/personal/lucrezia_pograri_studio_unibo_it/Documents/MPMD/VISTARA/Lucrezia.Pograri.FreeExercise.pdf?csf=1&web=1&e=mIug32) | May 2025 |
+| [AI-powered Chatbot Application for Cultural Heritage](https://pmse.gitbook.io/pmse-dhdk) | Project Management and Software Engineering | P. Bonora | [See Project](https://pmse.gitbook.io/pmse-dhdk) | Feb. 2025 |
 | [Open Voices: a statistical analysis of violence against women in Italy](https://asemica-me.github.io/OADE_OpenVoices/) | Open Access and Digital Ethics | M. Palmirani | [See Repository](https://github.com/Asemica-me/OADE_OpenVoices) | Jan. 2025 |
 | Network Analysis of the Digital Humanities Research Field at the University of Bologna | Network Analysis | S. Giallorenzo | [See Repository](https://github.com/NetworkAnalysisDH/final_project) | Feb. 2025 |
-| [RAG-Based Assistant for Geoportale Nazionale Archeologia (GNA)](https://github.com/Asemica-me/chatw-GNA) |	Machine Learning | G. Colavizza | [See Repository](https://github.com/Asemica-me/chatw-GNA)<br>///<br>[Exercises Environment](https://github.com/Asemica-me/ML_4DHDK) | 2025 |
+| [RAG-Based Assistant for Geoportale Nazionale Archeologia (GNA)](https://github.com/Asemica-me/chatw-GNA) |	Machine Learning | G. Colavizza | [See Repository](https://github.com/Asemica-me/chatw-GNA)<br>~~~~~<br>[Exercises](https://github.com/Asemica-me/ML_4DHDK) | March 2025 |
 | [Succede solo a Bologna: Case Study Analysis](https://www.canva.com/design/DAGYjtzRLzM/6mL0IlF0YJbaTsT_gFADRg/edit?utm_content=DAGYjtzRLzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |	Business Strategy and Innovation in Cultural and Creative Industries | F. Leonardi | [See CS Report](https://liveunibo-my.sharepoint.com/:b:/r/personal/lucrezia_pograri_studio_unibo_it/Documents/Business%20Strategy/Business%20Strategy%20Case%20Study%20Report.pdf?csf=1&web=1&e=2JWKfQ) | Dec. 2024 |
 
 ---
